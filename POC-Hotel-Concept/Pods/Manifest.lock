@@ -1,0 +1,16 @@
+PODS:
+  - FittedSheets (1.4.4)
+
+DEPENDENCIES:
+  - FittedSheets
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FittedSheets
+
+SPEC CHECKSUMS:
+  FittedSheets: f56b96c7bd81585d9a183c2a06abe176fa0b55db
+
+PODFILE CHECKSUM: f2d73f24c5f0584ef0abd70e73b7636fb4e42073
+
+COCOAPODS: 1.7.5

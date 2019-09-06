@@ -1,0 +1,6 @@
+framework module Pods_POC_Hotel_Concept {
+  umbrella header "Pods-POC-Hotel-Concept-umbrella.h"
+
+  export *
+  module * { export * }
+}
